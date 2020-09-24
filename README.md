@@ -1,1 +1,1 @@
-# JavascriptConsoleQuiz
+# A simple javascript console quiz game.
